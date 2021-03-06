@@ -18,6 +18,10 @@
   --blue-twitter  : #2AA9E0;
 }
 
+button{
+  outline: none;
+}
+
 @media(max-width : 1080px) {
   html {
     font-size: 93.75%;
